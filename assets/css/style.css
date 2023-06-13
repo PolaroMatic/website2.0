@@ -852,7 +852,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 30px;
-  color: #3fbbc0;
+  color:  rgb(29, 41, 216);
   float: left;
 }
 
